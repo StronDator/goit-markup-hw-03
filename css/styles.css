@@ -294,11 +294,7 @@ img {
 }
 
 .portfolio-items-info {
-  display: flex;
-  gap: 8px;
   padding: 32px 16px;
-  flex-direction: column;
-  align-items: flex-start;
   border: 1px solid #e7e9fc;
   border-top: none;
 }
